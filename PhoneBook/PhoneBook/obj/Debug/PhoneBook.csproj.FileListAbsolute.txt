@@ -1,0 +1,33 @@
+D:\Grade 12\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+D:\Grade 12\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+D:\Grade 12\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+D:\Grade 12\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojAssemblyReference.cache
+D:\Grade 12\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+D:\Grade 12\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+D:\Grade 12\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+\\Client\D$\Grade 12\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+\\Client\D$\Grade 12\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+\\Client\D$\Grade 12\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+\\Client\D$\Grade 12\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
+\\Client\D$\Grade 12\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+\\Client\D$\Grade 12\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+\\centre-fsrv07\SSHome$\073402182\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+\\centre-fsrv07\SSHome$\073402182\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+\\centre-fsrv07\SSHome$\073402182\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+\\centre-fsrv07\SSHome$\073402182\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
+\\centre-fsrv07\SSHome$\073402182\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+\\centre-fsrv07\SSHome$\073402182\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+G:\Grade 12\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+G:\Grade 12\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+G:\Grade 12\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+G:\Grade 12\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
+G:\Grade 12\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+G:\Grade 12\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+G:\Grade 12\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+C:\Users\owner\Documents\Grade 12\Computer Science\Projects\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\owner\Documents\Grade 12\Computer Science\Projects\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\owner\Documents\Grade 12\Computer Science\Projects\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\owner\Documents\Grade 12\Computer Science\Projects\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojAssemblyReference.cache
+C:\Users\owner\Documents\Grade 12\Computer Science\Projects\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\owner\Documents\Grade 12\Computer Science\Projects\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\owner\Documents\Grade 12\Computer Science\Projects\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb

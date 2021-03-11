@@ -1,0 +1,13 @@
+G:\Grade 12\AnagramChecker\AnagramChecker\bin\Debug\AnagramChecker.exe.config
+G:\Grade 12\AnagramChecker\AnagramChecker\bin\Debug\AnagramChecker.exe
+G:\Grade 12\AnagramChecker\AnagramChecker\bin\Debug\AnagramChecker.pdb
+G:\Grade 12\AnagramChecker\AnagramChecker\obj\Debug\AnagramChecker.csprojResolveAssemblyReference.cache
+G:\Grade 12\AnagramChecker\AnagramChecker\obj\Debug\AnagramChecker.csproj.CoreCompileInputs.cache
+G:\Grade 12\AnagramChecker\AnagramChecker\obj\Debug\AnagramChecker.exe
+G:\Grade 12\AnagramChecker\AnagramChecker\obj\Debug\AnagramChecker.pdb
+\\Client\D$\Grade 12\Computer Science\Projects\AnagramChecker\AnagramChecker\bin\Debug\AnagramChecker.exe.config
+\\Client\D$\Grade 12\Computer Science\Projects\AnagramChecker\AnagramChecker\bin\Debug\AnagramChecker.exe
+\\Client\D$\Grade 12\Computer Science\Projects\AnagramChecker\AnagramChecker\bin\Debug\AnagramChecker.pdb
+\\Client\D$\Grade 12\Computer Science\Projects\AnagramChecker\AnagramChecker\obj\Debug\AnagramChecker.csprojResolveAssemblyReference.cache
+\\Client\D$\Grade 12\Computer Science\Projects\AnagramChecker\AnagramChecker\obj\Debug\AnagramChecker.exe
+\\Client\D$\Grade 12\Computer Science\Projects\AnagramChecker\AnagramChecker\obj\Debug\AnagramChecker.pdb
