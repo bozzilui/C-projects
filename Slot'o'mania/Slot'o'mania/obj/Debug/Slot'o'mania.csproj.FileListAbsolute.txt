@@ -1,0 +1,72 @@
+G:\Grade 12\Computer Science\Projects\Slot'o'mania\Slot'o'mania\bin\Debug\Slot'o'mania.exe.config
+G:\Grade 12\Computer Science\Projects\Slot'o'mania\Slot'o'mania\bin\Debug\Slot'o'mania.exe
+G:\Grade 12\Computer Science\Projects\Slot'o'mania\Slot'o'mania\bin\Debug\Slot'o'mania.pdb
+G:\Grade 12\Computer Science\Projects\Slot'o'mania\Slot'o'mania\obj\Debug\Slot'o'mania.csprojAssemblyReference.cache
+G:\Grade 12\Computer Science\Projects\Slot'o'mania\Slot'o'mania\obj\Debug\Slot_o_mania.Form1.resources
+G:\Grade 12\Computer Science\Projects\Slot'o'mania\Slot'o'mania\obj\Debug\Slot_o_mania.Properties.Resources.resources
+G:\Grade 12\Computer Science\Projects\Slot'o'mania\Slot'o'mania\obj\Debug\Slot'o'mania.csproj.GenerateResource.cache
+G:\Grade 12\Computer Science\Projects\Slot'o'mania\Slot'o'mania\obj\Debug\Slot'o'mania.csproj.CoreCompileInputs.cache
+G:\Grade 12\Computer Science\Projects\Slot'o'mania\Slot'o'mania\obj\Debug\Slot'o'mania.exe
+G:\Grade 12\Computer Science\Projects\Slot'o'mania\Slot'o'mania\obj\Debug\Slot'o'mania.pdb
+\\centre-fsrv07\SSHome$\073402182\Slot'o'mania\Slot'o'mania\obj\Debug\Slot'o'mania.csprojResolveAssemblyReference.cache
+\\centre-fsrv07\SSHome$\073402182\Slot'o'mania\Slot'o'mania\obj\Debug\Slot_o_mania.Form1.resources
+\\centre-fsrv07\SSHome$\073402182\Slot'o'mania\Slot'o'mania\obj\Debug\Slot_o_mania.Properties.Resources.resources
+\\centre-fsrv07\SSHome$\073402182\Slot'o'mania\Slot'o'mania\obj\Debug\Slot'o'mania.csproj.GenerateResource.Cache
+\\centre-fsrv07\SSHome$\073402182\Slot'o'mania\Slot'o'mania\obj\Debug\Slot'o'mania.exe
+\\centre-fsrv07\SSHome$\073402182\Slot'o'mania\Slot'o'mania\obj\Debug\Slot'o'mania.pdb
+\\centre-fsrv07\SSHome$\073402182\Slot'o'mania\Slot'o'mania\bin\Debug\Slot'o'mania.exe.config
+\\centre-fsrv07\SSHome$\073402182\Slot'o'mania\Slot'o'mania\bin\Debug\Slot'o'mania.exe
+\\centre-fsrv07\SSHome$\073402182\Slot'o'mania\Slot'o'mania\bin\Debug\Slot'o'mania.pdb
+D:\Grade 12\Computer Science\Projects\Slot'o'mania\Slot'o'mania\bin\Debug\Slot'o'mania.exe.config
+D:\Grade 12\Computer Science\Projects\Slot'o'mania\Slot'o'mania\bin\Debug\Slot'o'mania.exe
+D:\Grade 12\Computer Science\Projects\Slot'o'mania\Slot'o'mania\bin\Debug\Slot'o'mania.pdb
+D:\Grade 12\Computer Science\Projects\Slot'o'mania\Slot'o'mania\obj\Debug\Slot'o'mania.csprojAssemblyReference.cache
+D:\Grade 12\Computer Science\Projects\Slot'o'mania\Slot'o'mania\obj\Debug\Slot_o_mania.Form1.resources
+D:\Grade 12\Computer Science\Projects\Slot'o'mania\Slot'o'mania\obj\Debug\Slot_o_mania.Properties.Resources.resources
+D:\Grade 12\Computer Science\Projects\Slot'o'mania\Slot'o'mania\obj\Debug\Slot'o'mania.csproj.GenerateResource.cache
+D:\Grade 12\Computer Science\Projects\Slot'o'mania\Slot'o'mania\obj\Debug\Slot'o'mania.csproj.CoreCompileInputs.cache
+D:\Grade 12\Computer Science\Projects\Slot'o'mania\Slot'o'mania\obj\Debug\Slot'o'mania.exe
+D:\Grade 12\Computer Science\Projects\Slot'o'mania\Slot'o'mania\obj\Debug\Slot'o'mania.pdb
+D:\Grade 12\Computer Science\Projects\Slot'o'mania\Slot'o'mania\obj\Debug\Slot_o_mania.Form2.resources
+G:\Grade 12\Computer Science\Projects\Slot'o'mania\Slot'o'mania\obj\Debug\Slot_o_mania.Form2.resources
+\\centre-fsrv07\SSHome$\073402182\Slot'o'mania\Slot'o'mania\obj\Debug\Slot_o_mania.Form2.resources
+C:\Users\luigi\OneDrive\Slot'o'mania\Slot'o'mania\bin\Debug\Slot'o'mania.exe.config
+C:\Users\luigi\OneDrive\Slot'o'mania\Slot'o'mania\bin\Debug\Slot'o'mania.exe
+C:\Users\luigi\OneDrive\Slot'o'mania\Slot'o'mania\bin\Debug\Slot'o'mania.pdb
+C:\Users\luigi\OneDrive\Slot'o'mania\Slot'o'mania\obj\Debug\Slot'o'mania.csprojAssemblyReference.cache
+C:\Users\luigi\OneDrive\Slot'o'mania\Slot'o'mania\obj\Debug\Slot_o_mania.Form1.resources
+C:\Users\luigi\OneDrive\Slot'o'mania\Slot'o'mania\obj\Debug\Slot_o_mania.Form2.resources
+C:\Users\luigi\OneDrive\Slot'o'mania\Slot'o'mania\obj\Debug\Slot_o_mania.Properties.Resources.resources
+C:\Users\luigi\OneDrive\Slot'o'mania\Slot'o'mania\obj\Debug\Slot'o'mania.csproj.GenerateResource.cache
+C:\Users\luigi\OneDrive\Slot'o'mania\Slot'o'mania\obj\Debug\Slot'o'mania.csproj.CoreCompileInputs.cache
+C:\Users\luigi\OneDrive\Slot'o'mania\Slot'o'mania\obj\Debug\Slot'o'mania.exe
+C:\Users\luigi\OneDrive\Slot'o'mania\Slot'o'mania\obj\Debug\Slot'o'mania.pdb
+C:\Users\owner\OneDrive\Slot'o'mania\Slot'o'mania\bin\Debug\Slot'o'mania.exe.config
+C:\Users\owner\OneDrive\Slot'o'mania\Slot'o'mania\bin\Debug\Slot'o'mania.exe
+C:\Users\owner\OneDrive\Slot'o'mania\Slot'o'mania\bin\Debug\Slot'o'mania.pdb
+C:\Users\owner\OneDrive\Slot'o'mania\Slot'o'mania\obj\Debug\Slot'o'mania.csprojAssemblyReference.cache
+C:\Users\owner\OneDrive\Slot'o'mania\Slot'o'mania\obj\Debug\Slot_o_mania.Form1.resources
+C:\Users\owner\OneDrive\Slot'o'mania\Slot'o'mania\obj\Debug\Slot_o_mania.Form2.resources
+C:\Users\owner\OneDrive\Slot'o'mania\Slot'o'mania\obj\Debug\Slot_o_mania.Properties.Resources.resources
+C:\Users\owner\OneDrive\Slot'o'mania\Slot'o'mania\obj\Debug\Slot'o'mania.csproj.GenerateResource.cache
+C:\Users\owner\OneDrive\Slot'o'mania\Slot'o'mania\obj\Debug\Slot'o'mania.csproj.CoreCompileInputs.cache
+C:\Users\owner\OneDrive\Slot'o'mania\Slot'o'mania\obj\Debug\Slot'o'mania.exe
+C:\Users\owner\OneDrive\Slot'o'mania\Slot'o'mania\obj\Debug\Slot'o'mania.pdb
+C:\Users\owner\OneDrive\Slot'o'mania\Slot'o'mania\obj\Debug\Slot_o_mania.Form3.resources
+G:\Grade 12\Computer Science\Projects\Slot'o'mania\Slot'o'mania\obj\Debug\Slot_o_mania.Form3.resources
+G:\Grade 12\Computer Science\Projects\Slot'o'mania\Slot'o'mania\obj\Debug\Slot_o_mania.Form4.resources
+G:\Grade 12\Computer Science\Projects\Slot'o'mania\Slot'o'mania\obj\Debug\Slot_o_mania.Form5.resources
+C:\Users\owner\Documents\Grade 12\Computer Science\Projects\Slot'o'mania\Slot'o'mania\bin\Debug\Slot'o'mania.exe.config
+C:\Users\owner\Documents\Grade 12\Computer Science\Projects\Slot'o'mania\Slot'o'mania\bin\Debug\Slot'o'mania.exe
+C:\Users\owner\Documents\Grade 12\Computer Science\Projects\Slot'o'mania\Slot'o'mania\bin\Debug\Slot'o'mania.pdb
+C:\Users\owner\Documents\Grade 12\Computer Science\Projects\Slot'o'mania\Slot'o'mania\obj\Debug\Slot'o'mania.csprojAssemblyReference.cache
+C:\Users\owner\Documents\Grade 12\Computer Science\Projects\Slot'o'mania\Slot'o'mania\obj\Debug\Slot_o_mania.Form1.resources
+C:\Users\owner\Documents\Grade 12\Computer Science\Projects\Slot'o'mania\Slot'o'mania\obj\Debug\Slot_o_mania.Form2.resources
+C:\Users\owner\Documents\Grade 12\Computer Science\Projects\Slot'o'mania\Slot'o'mania\obj\Debug\Slot_o_mania.Form3.resources
+C:\Users\owner\Documents\Grade 12\Computer Science\Projects\Slot'o'mania\Slot'o'mania\obj\Debug\Slot_o_mania.Form4.resources
+C:\Users\owner\Documents\Grade 12\Computer Science\Projects\Slot'o'mania\Slot'o'mania\obj\Debug\Slot_o_mania.Form5.resources
+C:\Users\owner\Documents\Grade 12\Computer Science\Projects\Slot'o'mania\Slot'o'mania\obj\Debug\Slot_o_mania.Properties.Resources.resources
+C:\Users\owner\Documents\Grade 12\Computer Science\Projects\Slot'o'mania\Slot'o'mania\obj\Debug\Slot'o'mania.csproj.GenerateResource.cache
+C:\Users\owner\Documents\Grade 12\Computer Science\Projects\Slot'o'mania\Slot'o'mania\obj\Debug\Slot'o'mania.csproj.CoreCompileInputs.cache
+C:\Users\owner\Documents\Grade 12\Computer Science\Projects\Slot'o'mania\Slot'o'mania\obj\Debug\Slot'o'mania.exe
+C:\Users\owner\Documents\Grade 12\Computer Science\Projects\Slot'o'mania\Slot'o'mania\obj\Debug\Slot'o'mania.pdb
