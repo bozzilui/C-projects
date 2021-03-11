@@ -1,0 +1,29 @@
+F:\CPTBlackJack\CPTBlackJack\bin\Debug\CPTBlackJack.exe.config
+F:\CPTBlackJack\CPTBlackJack\bin\Debug\CPTBlackJack.exe
+F:\CPTBlackJack\CPTBlackJack\bin\Debug\CPTBlackJack.pdb
+F:\CPTBlackJack\CPTBlackJack\obj\Debug\CPTBlackJack.PlayForm.resources
+F:\CPTBlackJack\CPTBlackJack\obj\Debug\CPTBlackJack.Properties.Resources.resources
+F:\CPTBlackJack\CPTBlackJack\obj\Debug\CPTBlackJack.csproj.GenerateResource.Cache
+F:\CPTBlackJack\CPTBlackJack\obj\Debug\CPTBlackJack.csproj.CoreCompileInputs.cache
+F:\CPTBlackJack\CPTBlackJack\obj\Debug\CPTBlackJack.exe
+F:\CPTBlackJack\CPTBlackJack\obj\Debug\CPTBlackJack.pdb
+\\Client\D$\CPTBlackJack\CPTBlackJack\bin\Debug\CPTBlackJack.exe.config
+\\Client\D$\CPTBlackJack\CPTBlackJack\bin\Debug\CPTBlackJack.exe
+\\Client\D$\CPTBlackJack\CPTBlackJack\bin\Debug\CPTBlackJack.pdb
+\\Client\D$\CPTBlackJack\CPTBlackJack\obj\Debug\CPTBlackJack.csprojResolveAssemblyReference.cache
+\\Client\D$\CPTBlackJack\CPTBlackJack\obj\Debug\CPTBlackJack.PlayForm.resources
+\\Client\D$\CPTBlackJack\CPTBlackJack\obj\Debug\CPTBlackJack.Properties.Resources.resources
+\\Client\D$\CPTBlackJack\CPTBlackJack\obj\Debug\CPTBlackJack.csproj.GenerateResource.Cache
+\\Client\D$\CPTBlackJack\CPTBlackJack\obj\Debug\CPTBlackJack.exe
+\\Client\D$\CPTBlackJack\CPTBlackJack\obj\Debug\CPTBlackJack.pdb
+R:\DYOUV\ICS3U1 Berardi\Students\Bozzi, Luigi\unit 2\CPT\CPTBlackJack\CPTBlackJack\bin\Debug\CPTBlackJack.exe.config
+R:\DYOUV\ICS3U1 Berardi\Students\Bozzi, Luigi\unit 2\CPT\CPTBlackJack\CPTBlackJack\bin\Debug\CPTBlackJack.exe
+R:\DYOUV\ICS3U1 Berardi\Students\Bozzi, Luigi\unit 2\CPT\CPTBlackJack\CPTBlackJack\bin\Debug\CPTBlackJack.pdb
+R:\DYOUV\ICS3U1 Berardi\Students\Bozzi, Luigi\unit 2\CPT\CPTBlackJack\CPTBlackJack\obj\Debug\CPTBlackJack.csprojResolveAssemblyReference.cache
+R:\DYOUV\ICS3U1 Berardi\Students\Bozzi, Luigi\unit 2\CPT\CPTBlackJack\CPTBlackJack\obj\Debug\CPTBlackJack.PlayForm.resources
+R:\DYOUV\ICS3U1 Berardi\Students\Bozzi, Luigi\unit 2\CPT\CPTBlackJack\CPTBlackJack\obj\Debug\CPTBlackJack.Properties.Resources.resources
+R:\DYOUV\ICS3U1 Berardi\Students\Bozzi, Luigi\unit 2\CPT\CPTBlackJack\CPTBlackJack\obj\Debug\CPTBlackJack.csproj.GenerateResource.Cache
+R:\DYOUV\ICS3U1 Berardi\Students\Bozzi, Luigi\unit 2\CPT\CPTBlackJack\CPTBlackJack\obj\Debug\CPTBlackJack.exe
+R:\DYOUV\ICS3U1 Berardi\Students\Bozzi, Luigi\unit 2\CPT\CPTBlackJack\CPTBlackJack\obj\Debug\CPTBlackJack.pdb
+\\Client\D$\CPTBlackJack\CPTBlackJack\obj\Debug\CPTBlackJack.Form2.resources
+R:\DYOUV\ICS3U1 Berardi\Students\Bozzi, Luigi\unit 2\CPT\CPTBlackJack\CPTBlackJack\obj\Debug\CPTBlackJack.Form2.resources

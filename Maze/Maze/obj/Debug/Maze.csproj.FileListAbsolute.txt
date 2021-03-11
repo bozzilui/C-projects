@@ -1,0 +1,19 @@
+R:\DYOUV\ICS3U1 Berardi\Students\Bozzi, Luigi\unit 2\Assignment 9\Maze\Maze\bin\Debug\Maze.exe.config
+R:\DYOUV\ICS3U1 Berardi\Students\Bozzi, Luigi\unit 2\Assignment 9\Maze\Maze\bin\Debug\Maze.exe
+R:\DYOUV\ICS3U1 Berardi\Students\Bozzi, Luigi\unit 2\Assignment 9\Maze\Maze\bin\Debug\Maze.pdb
+R:\DYOUV\ICS3U1 Berardi\Students\Bozzi, Luigi\unit 2\Assignment 9\Maze\Maze\obj\Debug\Maze.csprojResolveAssemblyReference.cache
+R:\DYOUV\ICS3U1 Berardi\Students\Bozzi, Luigi\unit 2\Assignment 9\Maze\Maze\obj\Debug\Maze.Form1.resources
+R:\DYOUV\ICS3U1 Berardi\Students\Bozzi, Luigi\unit 2\Assignment 9\Maze\Maze\obj\Debug\Maze.Properties.Resources.resources
+R:\DYOUV\ICS3U1 Berardi\Students\Bozzi, Luigi\unit 2\Assignment 9\Maze\Maze\obj\Debug\Maze.csproj.GenerateResource.Cache
+R:\DYOUV\ICS3U1 Berardi\Students\Bozzi, Luigi\unit 2\Assignment 9\Maze\Maze\obj\Debug\Maze.exe
+R:\DYOUV\ICS3U1 Berardi\Students\Bozzi, Luigi\unit 2\Assignment 9\Maze\Maze\obj\Debug\Maze.pdb
+F:\Maze\Maze\bin\Debug\Maze.exe.config
+F:\Maze\Maze\bin\Debug\Maze.exe
+F:\Maze\Maze\bin\Debug\Maze.pdb
+F:\Maze\Maze\obj\Debug\Maze.csprojResolveAssemblyReference.cache
+F:\Maze\Maze\obj\Debug\Maze.Form1.resources
+F:\Maze\Maze\obj\Debug\Maze.Properties.Resources.resources
+F:\Maze\Maze\obj\Debug\Maze.csproj.GenerateResource.Cache
+F:\Maze\Maze\obj\Debug\Maze.csproj.CoreCompileInputs.cache
+F:\Maze\Maze\obj\Debug\Maze.exe
+F:\Maze\Maze\obj\Debug\Maze.pdb
